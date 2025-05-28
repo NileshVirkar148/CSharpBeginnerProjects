@@ -1,5 +1,6 @@
 using System;
 
+namespace LunarDoggo.Algorithms.Graphs.Pathfinding {
 class FloatComparisonExample
 {
     public void CompareFloats()
@@ -16,4 +17,5 @@ class FloatComparisonExample
             Console.WriteLine("Not Equal");
         }
     }
+}
 }
